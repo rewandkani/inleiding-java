@@ -1,10 +1,20 @@
 package h02;
 
-public class Opdracht2_1 {
+import java.awt.*;
+import java.applet.*;
 
-	public static void main(String[] args) {
-		
 
-	}
+public class Opdracht2_1 extends Applet  {
+          
+	public void init() {
+		setBackground(Color.blue);
+    }
+    public void paint(Graphics g) {
+    	g.setColor(Color.yellow);
+    	g.drawString("Rewand", 60, 90);
+    	
+    	
+
+    }
 
 }
