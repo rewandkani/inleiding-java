@@ -11,7 +11,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 @SuppressWarnings("serial")
-	public class Opdracht6_1 extends Applet {
+	public class Opdracht1 extends Applet {
 		String J;
 		String A;
 		String JE;

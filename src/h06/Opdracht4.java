@@ -6,8 +6,8 @@ import java.awt.*;
 
 	
 
-	@SuppressWarnings("serial")
-	public class Opdracht6_4 extends Applet {
+	
+	public class Opdracht4 extends Applet {
 
 		
 		int gemiddelde = (int) ((5.9+6.3+6.9)/3*10);
