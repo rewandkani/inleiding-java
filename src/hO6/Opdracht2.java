@@ -1,5 +1,5 @@
 
-package h06;
+package hO6;
 
 
 import java.awt.*;

@@ -1,4 +1,4 @@
-package h06;
+package hO6;
 
 
 import java.applet.*;
