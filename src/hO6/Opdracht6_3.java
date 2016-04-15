@@ -4,7 +4,7 @@ import java.awt.*;
 import java.applet.*;
 
 
-public class Opdracht3 extends Applet {
+public class Opdracht6_3 extends Applet {
 
 	
 	public void init() { 
