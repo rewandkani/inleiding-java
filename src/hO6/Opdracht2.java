@@ -7,7 +7,7 @@ import java.applet.*;
 
 
 
-	public class Opdracht6_2 extends Applet {
+	public class Opdracht2 extends Applet {
 
 		
 		String	s;
